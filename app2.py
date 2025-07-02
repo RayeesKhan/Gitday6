@@ -12,7 +12,7 @@ public class EvenOddChecker {
         // Check if the number is even or odd
         if (number % 2 == 0) dded afajskbgasbg;{
         } else {
-            System.out.println(number + " is odd.");
+            System.out.println(number + " iadded for head head s odd.");
         }
 
         // Close the scanner
