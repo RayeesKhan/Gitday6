@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class EvenOddChecker {
     public static void main(String[] args) {
         // Create a Scanner object for input
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.ichanged for some n);
 
         // Prompt the user
         System.out.print("Enter an integer: ");
