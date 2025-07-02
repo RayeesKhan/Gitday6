@@ -10,8 +10,7 @@ public class EvenOddChecker {
         int number = scanner.nextInt();
 
         // Check if the number is even or odd
-        if (number % 2 == 0) {
-            System.out.println(number + " is even.");
+        if (number % 2 == 0) dded afajskbgasbg;{
         } else {
             System.out.println(number + " is odd.");
         }
